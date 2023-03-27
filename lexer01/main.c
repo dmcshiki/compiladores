@@ -28,6 +28,8 @@
 	                break;
 	            case ' ':
 	                break;
+							case '\n':
+	                break;
 	            default:
 	                printf("Caracter invalido: %c\n", s[i]);
 	        }
